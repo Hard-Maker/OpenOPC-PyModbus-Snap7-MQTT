@@ -1,3 +1,6 @@
+## Site Referente
+https://fusionautomate.in/self-paced-training/python/opc-ua-python/
+
 ## Library and Software Used:
 
 - OpenOPC (pip install OpenOPC-Python3x)
